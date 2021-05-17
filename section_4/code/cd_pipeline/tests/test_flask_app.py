@@ -1,5 +1,3 @@
-#/opt/miniconda3/bin/python
-
 import sys
 import os
 import unittest
