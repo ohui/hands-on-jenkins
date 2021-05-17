@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#/opt/miniconda3/bin/python
 
 import sys
 import os
